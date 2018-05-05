@@ -1,0 +1,1 @@
+java -Djava.library.path=C:/ProgramData/Kevycat/game/dll -jar C:/ProgramData/Kevycat/game/game.jar "C:\ProgramData\Kevycat\game\version"
