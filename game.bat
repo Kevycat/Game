@@ -1,2 +1,2 @@
-bitsadmin.exe /transfer "JobName" http://Kevycat.github.io/Game/game.jar "%cd%\game.jar"
+bitsadmin.exe /transfer "JobName" http://Kevycat.github.io/Game/game.jar "%cd%\game.jar" 
 java -Djava.library.path=C:\Users\Kevin\Desktop\Kevycat\game\dll -jar C:\Users\Kevin\Desktop\Kevycat\game\game.jar C:\Users\Kevin\Desktop\Kevycat\game\version\
